@@ -1,0 +1,20 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   Aegypten 006.JPG
+#	new file:   Aegypten 021.JPG
+#	new file:   Aegypten 032.JPG
+#	new file:   Anfrage.html
+#	new file:   Index.html
+#	new file:   Sakkara4.JPG
+#	new file:   festival3.jpg
+#
+# Changes not staged for commit:
+#	deleted:    Anfrage.html
+#
+
